@@ -1,3 +1,0 @@
-# codigos rascunhos
-
-repositório teste
